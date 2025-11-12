@@ -28,8 +28,8 @@
       source, and configuration files.
 
       "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
+      transformation or translation of a Source form, including but not
+      limited to compiled object code, generated documentation,
       and conversions to other media types.
 
       "Work" shall mean the work of authorship, whether in Source or
@@ -38,7 +38,7 @@
       (an example is provided in the Appendix below).
 
       "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
+      form, that is based upon (or derived from) the Work and for which the
       editorial revisions, annotations, elaborations, or other modifications
       represent, as a whole, an original work of authorship. For the purposes
       of this License, Derivative Works shall not include works that remain
@@ -104,8 +104,8 @@
           the Derivative Works; and
 
       (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
+          distribution, then any Derivative Works that You distribute
+          must include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
           pertain to any part of the Derivative Works, in at least one
           of the following places: within a NOTICE text file distributed
@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2025] [Smart Image Compression Expert]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
