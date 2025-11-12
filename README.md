@@ -19,6 +19,8 @@ A professional, browser-based image compression tool that uses intelligent algor
 - **Completely Free** - No registration required, no hidden costs
 - **Modern UI** - Clean, intuitive interface built with Tailwind CSS
 
+![image alt](https://github.com/Gravirei/Smart-Image-Compression-Expert/blob/c88ae18879fb711368ad33a2900ea98f189d5f51/ScreenShorts/HomePage.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
